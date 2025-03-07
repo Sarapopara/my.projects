@@ -1,4 +1,4 @@
-# my.projects
+# my_projects
 <!DOCTYPE html>
 <html>
 <head>
